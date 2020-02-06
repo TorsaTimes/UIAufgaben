@@ -15,6 +15,7 @@ import java.awt.event.ActionEvent;
 
 public class SachbearbeiterAdminLoeschenAAS{
 
+	
 	//------------------------------------Attribute der Klasse---------------------------------------
 		private OkLauscherLöschen okErzeugen = new OkLauscherLöschen();
 		private BeendenLauscherLöschen beendenErzeugen = new BeendenLauscherLöschen();
